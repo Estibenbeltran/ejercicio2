@@ -1,6 +1,6 @@
 import java.util.Scanner;
 Public class Main{
-	Public static void main(String[] arg){
+	public static void main(String[] arg){
 	int opc;
 	float pi=3.1416; 
 	double acu,pcu,aci,a,b,c,cap,rr,altr,atr,ptr;
